@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="gray-bakcground">
       <img src={logo} lat="logo"/>
-      <h2>Let's develop mangemeddnt system</h2>
+      <h2>Let's develop mangemeddnt system ds</h2>
     </div>
   );
 }
